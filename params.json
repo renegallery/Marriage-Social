@@ -1,6 +1,6 @@
 {
   "name": "Marriage-social",
   "tagline": "marriage social network",
-  "body": "### Welcome to the GitHub of my Data Visualization Project.",
+  "body": "# When does people start getting married?\r\n\r\nWhile friends around me transit from college students complaining about their homework taskS to gorgeous brides with sophisticated make up, I start to think of this question, when do people start getting married. \r\n\r\n## Deliverable\r\n\r\nSo I did this project with public survey data, end up with dashboard with multiple filter where you can see the distribution of marriage age within each category with different attributes or social status – race, employment status, education level, immigration status.. (https://public.tableau.com/profile/rene6521#!/vizhome/marriageAge_0/Dashboard)\r\n\r\nOne step further, I used this dashboard to track the marriage probability of friends in my boyfriend's network and build a draggable network heatmap with D3.js.\r\n\r\n## Data Source\r\n\r\nIPUMS\r\n(https://usa.ipums.org/usa/)\r\n\r\n## Acknowledgments\r\n\r\n* Dr. Alan Keahey\r\n* JFeng\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
